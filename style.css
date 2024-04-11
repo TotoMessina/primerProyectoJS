@@ -22,7 +22,7 @@ main{
     max-height: 100vh;
 }
 
-.inicio {
+#inicio {
     background-color: #212322;
     color: #FAFAFA;
     font-size: 1em;
